@@ -1,0 +1,354 @@
+TScreenS
+v7
+r0
+t297870579.406792
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-buoryxsqslnkdofhneuydjznfndn/ScreenS_Prefix.pch.gch ScreenS_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-butprjspwufmaogjbspdevupcvdn/ScreenS_Prefix.pch.gch ScreenS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-fgpqjqdrjrokszabraazeekworot/ScreenS_Prefix.pch.gch ScreenS_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenSView.o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenSView.o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS normal i386
+cLd /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS normal x86_64
+cCompileC build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenSView.o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS normal ppc
+cCreateUniversalBinary /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/MacOS/ScreenS normal "x86_64 i386 ppc"
+cTouch /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004A67D2A800000000000017ED
+t1248318120
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ScreenSaver.framework/Headers/ScreenSaver.h
+c000000004A419B5F00000000000000B9
+t1245813599
+s185
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.h
+c000000004A6E9EEC0000000000000957
+t1248763628
+s2391
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c000000004BAC505D00000000000789DC
+t1269583965
+s494044
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/ScreenSaver.framework/ScreenSaver
+c000000004AD871BD00000000000A7940
+t1255698877
+s686400
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/English.lproj/InfoPlist.strings
+c000000004C10D94A00000000000000DE
+t1276172618
+s222
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.h
+c000000004C10EC690000000000000101
+t1276177513
+s257
+i<ScreenSaver/ScreenSaver.h>
+i<WebKit/WebKit.h>
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m
+c000000004C10ECE200000000000003D7
+t1276177634
+s983
+i"ScreenSView.h"
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch
+c000000004C10D94A00000000000000BA
+t1276172618
+s186
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver
+t1276177779
+s102
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Info.plist
+t1276177762
+s775
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/MacOS/ScreenS
+t1276177779
+s46940
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Resources/English.lproj/InfoPlist.strings
+t1276177763
+s222
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS
+t1276177779
+s14004
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS.LinkFileList
+c000000004C10ED62000000000000007B
+t1276177762
+s123
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenSView.o
+t1276177778
+s17028
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS
+t1276177779
+s14172
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS.LinkFileList
+c000000004C10ED62000000000000007A
+t1276177762
+s122
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenSView.o
+t1276177779
+s17840
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS
+t1276177779
+s10688
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS.LinkFileList
+c000000004C10ED62000000000000007D
+t1276177762
+s125
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenSView.o
+t1276177778
+s19784
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/StaticAnalyzer/normal/i386/ScreenSView.plist
+t1276173046
+s275
+
+N/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/StaticAnalyzer/normal/x86_64/ScreenSView.plist
+t1276173046
+s275
+
+N/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-bieskexakbysooarevmpjhskqdum/ScreenS_Prefix.pch.pth
+t1276173046
+s8055208
+
+N/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-buoryxsqslnkdofhneuydjznfndn/ScreenS_Prefix.pch.gch
+t1276177774
+s53572656
+
+N/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-butprjspwufmaogjbspdevupcvdn/ScreenS_Prefix.pch.gch
+t1276177775
+s56214608
+
+N/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-eksjveuavhqmildyxrywgsvpbfzc/ScreenS_Prefix.pch.pth
+t1276173046
+s7411508
+
+N/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-fgpqjqdrjrokszabraazeekworot/ScreenS_Prefix.pch.gch
+t1276177778
+s52503408
+
+NInfo.plist
+c000000004C10D94A000000000000035D
+t1276172618
+s861
+
+CAnalyze /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m
+s297865846.424690
+e297865846.590262
+r1
+xAnalyze
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m
+lSLF07#2@70"Analyze /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m297865846#297865846#0(0"0(0#0#62"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m4300911832#1238"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/i386 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -include /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-bieskexakbysooarevmpjhskqdum/ScreenS_Prefix.pch --analyze /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/StaticAnalyzer/normal/i386/ScreenSView.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297870562#297870562#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenSView.o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297870578.401112
+e297870578.780710
+r1
+xCompileC
+xbuild/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenSView.o
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m297870578#297870578#0(0"0(0#0#62"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m4300911832#1184"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/i386 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -include /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-butprjspwufmaogjbspdevupcvdn/ScreenS_Prefix.pch -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenSView.o0#
+
+CCompileC build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenSView.o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s297870579.075483
+e297870579.336402
+r1
+xCompileC
+xbuild/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenSView.o
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m297870579#297870579#0(0"0(0#0#62"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m4300911832#1191"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/ppc -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -include /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-fgpqjqdrjrokszabraazeekworot/ScreenS_Prefix.pch -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenSView.o0#
+
+CCompileC build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenSView.o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297870578.399438
+e297870578.970204
+r1
+xCompileC
+xbuild/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenSView.o
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m297870578#297870578#0(0"0(0#0#62"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m4300911832#1190"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/x86_64 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -include /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-buoryxsqslnkdofhneuydjznfndn/ScreenS_Prefix.pch -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenSView.m -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenSView.o0#
+
+CCopyStringsFile /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s297870562.567110
+e297870563.008207
+r1
+xCopyStringsFile
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings297870562#297870563#0(0"0(0#0#80"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/English.lproj/InfoPlist.strings4300911832#388"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Resources/English.lproj0#
+
+CCreateUniversalBinary /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/MacOS/ScreenS normal "x86_64 i386 ppc"
+s297870579.398104
+e297870579.401566
+r1
+xCreateUniversalBinary
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/MacOS/ScreenS
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@95"CreateUniversalBinary build/Debug/ScreenS.saver/Contents/MacOS/ScreenS normal "x86_64 i386 ppc"297870579#297870579#0(0"0(0#0#64"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/x86_64 i386 ppc4300911832#540"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    /usr/bin/lipo -create /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS -output /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/MacOS/ScreenS0#
+
+CLd /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS normal i386
+s297870578.780812
+e297870579.075362
+r1
+xLd
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS
+xnormal
+xi386
+lSLF07#2@121"Link /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS297870578#297870579#0(0"0(0#0#0"4300911832#658"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -filelist /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -framework WebKit -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/i386/ScreenS0#
+
+CLd /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS normal ppc
+s297870579.336507
+e297870579.397981
+r1
+xLd
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS
+xnormal
+xppc
+lSLF07#2@120"Link /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS297870579#297870579#0(0"0(0#0#0"4300911832#655"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -filelist /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -framework WebKit -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/ppc/ScreenS0#
+
+CLd /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS normal x86_64
+s297870578.970309
+e297870579.076769
+r1
+xLd
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS
+xnormal
+xx86_64
+lSLF07#2@123"Link /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS297870578#297870579#0(0"0(0#0#0"4300911832#664"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -filelist /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -framework WebKit -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/Objects-normal/x86_64/ScreenS0#
+
+CProcessInfoPlistFile /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Info.plist Info.plist
+s297870562.558716
+e297870562.566964
+r1
+xProcessInfoPlistFile
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist297870562#297870562#0(0"0(0#0#59"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/Info.plist4300911832#232"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-bieskexakbysooarevmpjhskqdum/ScreenS_Prefix.pch.pth ScreenS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s297865845.216885
+e297865846.422459
+r1
+xProcessPCH
+x/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-bieskexakbysooarevmpjhskqdum/ScreenS_Prefix.pch.pth
+xScreenS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@29"Precompile ScreenS_Prefix.pch297865845#297865846#0(0"0(0#0#67"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch4300911832#1104"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/i386 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch -o /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-bieskexakbysooarevmpjhskqdum/ScreenS_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-buoryxsqslnkdofhneuydjznfndn/ScreenS_Prefix.pch.gch ScreenS_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297870563.008339
+e297870574.719742
+r1
+xProcessPCH
+x/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-buoryxsqslnkdofhneuydjznfndn/ScreenS_Prefix.pch.gch
+xScreenS_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile ScreenS_Prefix.pch297870563#297870574#0(0"0(0#0#67"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch4300911832#1072"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/x86_64 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch -o /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-buoryxsqslnkdofhneuydjznfndn/ScreenS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-butprjspwufmaogjbspdevupcvdn/ScreenS_Prefix.pch.gch ScreenS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297870563.009229
+e297870575.155935
+r1
+xProcessPCH
+x/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-butprjspwufmaogjbspdevupcvdn/ScreenS_Prefix.pch.gch
+xScreenS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile ScreenS_Prefix.pch297870563#297870575#0(0"0(0#0#67"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch4300911832#1068"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/i386 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch -o /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-butprjspwufmaogjbspdevupcvdn/ScreenS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-eksjveuavhqmildyxrywgsvpbfzc/ScreenS_Prefix.pch.pth ScreenS_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s297865845.215930
+e297865846.276524
+r1
+xProcessPCH
+x/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-eksjveuavhqmildyxrywgsvpbfzc/ScreenS_Prefix.pch.pth
+xScreenS_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@29"Precompile ScreenS_Prefix.pch297865845#297865846#0(0"0(0#0#67"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch4300911832#1108"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/x86_64 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch -o /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-eksjveuavhqmildyxrywgsvpbfzc/ScreenS_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-fgpqjqdrjrokszabraazeekworot/ScreenS_Prefix.pch.gch ScreenS_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s297870574.720019
+e297870578.399272
+r1
+xProcessPCH
+x/var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-fgpqjqdrjrokszabraazeekworot/ScreenS_Prefix.pch.gch
+xScreenS_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile ScreenS_Prefix.pch297870574#297870578#0(0"0(0#0#67"/Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch4300911832#1076"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/ScreenS.hmap -F/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/include -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources/ppc -I/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/ScreenS.build/Debug/ScreenS.build/DerivedSources -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/ScreenS_Prefix.pch -o /var/folders/Du/DufNBvpdETO0aNyeo-b2u++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenS_Prefix-fgpqjqdrjrokszabraazeekworot/ScreenS_Prefix.pch.gch0#
+
+CTouch /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver
+s297870579.401657
+e297870579.406739
+r1
+xTouch
+x/Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver
+lSLF07#2@80"Touch /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver297870579#297870579#0(0"0(0#0#0"4300911832#153"    cd /Users/patrikaxelsson/Documents/dev_temp/ScreenS    /usr/bin/touch -c /Users/patrikaxelsson/Documents/dev_temp/ScreenS/build/Debug/ScreenS.saver0#
+
